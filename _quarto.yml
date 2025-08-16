@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs   # <- GitHub Pages will serve from /docs on your default branch
+
+website:
+  title: "Math & Everything!"
+  site-url: https://iramler.github.io/math_and_everything/   # optional but nice
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+  page-footer:
+    left: "© St. Lawrence University"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-location: left
+    smooth-scroll: true
+    number-sections: false
+    anchor-sections: true
+
+# If you want to copy static files (e.g., images, .nojekyll) into docs:
+# resources:
+#   - images/
+#   - .nojekyll
