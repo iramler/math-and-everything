@@ -5,6 +5,7 @@ _site/
 .Rhistory
 .RData
 .Ruserdata
+.Rproj
 
 
 /.quarto/
