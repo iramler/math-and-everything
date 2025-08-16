@@ -67,57 +67,121 @@ Students may select three to attend. Some are offered multiple times.
 ## Session Block #1 · 10:30–11:00
 
 -   **Math & Activism:** Critical and creative use of complex networks — Zeyno Ustun (*Eben South*)\
+
 -   **Math & The Brain:** Math helps us understand neuroscience — Ana Estevez (*Valentine 107*)\
+
 -   **Math & Careers:** Math careers from Apple and DataDog to Stormwater — Beth Larrabee & Geoff Falen (*Valentine 106*)\
+
 -   **Math & College:** Panel with SLU students in mathematical sciences — A.J. Dykstra, moderator (*Valentine 101*)\
+
 -   **Math & Data Science:** Exploring and understanding data — Lillian Li (*Valentine 117*)\
+
 -   **Math & The Environment:** Environmental impacts of dams on freshwater clams — Judith Nagel-Myers (*Brown 141*)\
+
 -   **Math & Epidemiology:** Using games and math to explore how diseases spread — Dan Look (*Eben North*)\
+
 -   **Math & Perception:** Using virtual reality to understand perception — Elyssa Twedt (*Valentine 204*)\
+
 -   **Math & Psychology:** Overcoming stereotypes to unlock your potential — Shu Jiang (*Valentine 103*)\
+
 -   **Math & Sports:** Predicting volleyball winners with trees — Robin Lock (*Valentine 124*)\
--   **Math & TV:** IMDb ratings explored with data science — Jessica Chapman (*Valentine 125*)\
+
+-   <details>
+
+    <summary><strong>Math & TV</strong> — Jessica Chapman <em>(Valentine 125)</em></summary>
+
+    In this session, you’ll look at visualizations IMDb ratings for popular TV shows. We’ll explore different visualizations and discuss what these ratings reveal (and what they might miss).
+
+    </details>
+
 -   **Math & The Universe:** Games and 3D animations to understand the universe — Jeff Weeks (*Bloomer Auditorium*)
 
 ## Session Block #2a · 11:10–11:40 (Group A)
 
 -   **Math & Activism** — Zeyno Ustun (*Eben South*)\
+
 -   **Math & The Brain** — Ana Estevez (*Valentine 107*)\
+
 -   **Math & Careers** — Beth Larrabee & Geoff Falen (*Valentine 106*)\
+
 -   **Math & ChatGPT:** The math behind conversational AI — Lisa Torrey (*Valentine 103*)\
+
 -   **Math & Epidemiology** — Dan Look (*Eben North*)\
+
 -   **Math & Perception** — Elyssa Twedt (*Valentine 204*)\
+
 -   **Math & Sports** — Robin Lock (*Valentine 124*)\
--   **Math & TV** — Jessica Chapman (*Valentine 125*)\
+
+-   <details>
+
+    <summary><strong>Math & TV</strong> — Jessica Chapman <em>(Valentine 125)</em></summary>
+
+    In this session, you’ll look at visualizations IMDb ratings for popular TV shows. We’ll explore different visualizations and discuss what these ratings reveal (and what they might miss).
+
+    </details>
+
 -   **Math & The Universe** — Jeff Weeks (*Bloomer Auditorium*)
 
 ## Session Block #2b · 12:20–12:50 (Group B)
 
 -   **Math & Art:** 3D printing mathematical sculptures — Gabriel Dorfsman-Hopkins (*Valentine 208*)\
+
 -   **Math & Careers** — Beth Larrabee & Geoff Falen (*Valentine 106*)\
+
 -   **Math & ChatGPT** — Lisa Torrey (*Valentine 103*)\
+
 -   **Math & Chemistry:** Math in chemical reactions — Amanda Oldacre (*Valentine 107*)\
+
 -   **Math & Cybersecurity:** Sending secret messages — Kevin Angstadt (*Valentine 207*)\
+
 -   **Math & Epidemiology** — Dan Look (*Eben North*)\
+
 -   **Math & Magic:** Using math to read minds — Daniel Condon (*Valentine 204*)\
--   **Math & TV** — Ivan Ramler (*Valentine 125*)\
+
+-   <details>
+
+    <summary><strong>Math & TV</strong> — Ivan Ramler <em>(Valentine 125)</em></summary>
+
+    In this session, you’ll look at visualizations IMDb ratings for popular TV shows. We’ll explore different visualizations and discuss what these ratings reveal (and what they might miss).
+
+    </details>
+
 -   **Math & The Universe:** The shape of our universe — Jeff Weeks (*Bloomer Auditorium*)
 
 ## Session Block #3 · 1:00–1:30
 
 -   **Math & Art** — Gabriel Dorfsman-Hopkins (*Valentine 208*)\
+
 -   **Math & ChatGPT** — Lisa Torrey (*Valentine 103*)\
+
 -   **Math & Chemistry** — Amanda Oldacre (*Valentine 107*)\
+
 -   **Math & College** — Student panel moderated by A.J. Dykstra (*Valentine 101*)\
+
 -   **Math & Cybersecurity** — Kevin Angstadt (*Valentine 207*)\
+
 -   **Math & Data Science** — Lillian Li (*Valentine 117*)\
+
 -   **Math & The Environment** — Judith Nagel-Myers (*Brown 141*)\
+
 -   **Math & Epidemiology** — Dan Look (*Eben North*)\
+
 -   **Math & Magic** — Daniel Condon (*Valentine 204*)\
+
 -   **Math & Philosophy:** Drawing conclusions from observations — Jenny Hansen (*Valentine 105*)\
+
 -   **Math & Physics:** Microgravity and your cells — Massooma Pirbhai (*Valentine 205–206*)\
+
 -   **Math & Sports** — Robin Lock (*Valentine 124*)\
--   **Math & TV** — Ivan Ramler (*Valentine 125*)\
+
+-   <details>
+
+    <summary><strong>Math & TV</strong> — Ivan Ramler <em>(Valentine 125)</em></summary>
+
+    In this session, you’ll look at visualizations IMDb ratings for popular TV shows. We’ll explore different visualizations and discuss what these ratings reveal (and what they might miss).
+
+    </details>
+
 -   **Math & The Universe** — Jeff Weeks (*Bloomer Auditorium*)
 
 ------------------------------------------------------------------------
